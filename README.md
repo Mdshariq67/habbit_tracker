@@ -60,7 +60,6 @@ test/
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd TECHNICAL-ASSESSMENT
 
 # Install dependencies
 flutter pub get
